@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac888b5d-6035-4c46-aa3f-8a6ef2bc9324" name="Default Changelist" comment="" />
+    <list default="true" id="ac888b5d-6035-4c46-aa3f-8a6ef2bc9324" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/question11_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/question12_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/question1_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/question2_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/question3_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/question4_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/question5_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/question6_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/question7_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/question8_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/question9_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/question1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/question10_test.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +31,22 @@
     </option>
   </component>
   <component name="GOROOT" path="D:\go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UBhP8ePldk99GPNpuoEUAkj3fS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gostart" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,7 +60,92 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Go Test.TestIntToRoman in coding/src/main">
+    <configuration name="TestIntToRoman in coding/src/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="coding" />
+      <working_directory value="$PROJECT_DIR$/src/main" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="coding/src/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestIntToRoman$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestIsPalindrome in coding/src/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="coding" />
+      <working_directory value="$PROJECT_DIR$/src/main" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="coding/src/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestIsPalindrome$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMaxArea in coding/src/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="coding" />
+      <working_directory value="$PROJECT_DIR$/src/main" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="coding/src/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMaxArea$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMyAtoi in coding/src/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="coding" />
+      <working_directory value="$PROJECT_DIR$/src/main" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="coding/src/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestMyAtoi$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="question7_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="coding" />
+      <working_directory value="$PROJECT_DIR$/src/main" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="coding" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/main/question7_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestIntToRoman in coding/src/main" />
+        <item itemvalue="Go Test.TestMaxArea in coding/src/main" />
+        <item itemvalue="Go Test.TestIsPalindrome in coding/src/main" />
+        <item itemvalue="Go Test.TestMyAtoi in coding/src/main" />
+        <item itemvalue="Go Test.question7_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="*(*&quot;main.ListNode&quot;)(824633917904)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
