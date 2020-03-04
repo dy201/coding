@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac888b5d-6035-4c46-aa3f-8a6ef2bc9324" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/question11_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/question12_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/question1_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/question2_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/question3_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/question4_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/question5_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/question6_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/question7_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/question8_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/question9_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/question1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/question10_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/question10_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/question10_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/question12_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/question12_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,8 +49,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestIntToRoman in coding/src/main">
-    <configuration name="TestIntToRoman in coding/src/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.question12_test.go">
+    <configuration name="go build coding/src/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="coding" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/main/demo.go" />
+      <package value="coding/src/main" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestIntToRoman in coding/src/main (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="coding" />
       <working_directory value="$PROJECT_DIR$/src/main" />
       <framework value="gotest" />
@@ -72,7 +70,7 @@
       <pattern value="^TestIntToRoman$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestIsPalindrome in coding/src/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestIntToRoman in coding/src/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="coding" />
       <working_directory value="$PROJECT_DIR$/src/main" />
       <framework value="gotest" />
@@ -80,7 +78,7 @@
       <package value="coding/src/main" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestIsPalindrome$" />
+      <pattern value="^TestIntToRoman$" />
       <method v="2" />
     </configuration>
     <configuration name="TestMaxArea in coding/src/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -94,34 +92,23 @@
       <pattern value="^TestMaxArea$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMyAtoi in coding/src/main" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="coding" />
-      <working_directory value="$PROJECT_DIR$/src/main" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="coding/src/main" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestMyAtoi$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="question7_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="question12_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="coding" />
       <working_directory value="$PROJECT_DIR$/src/main" />
       <framework value="gotest" />
       <kind value="FILE" />
       <package value="coding" />
       <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/src/main/question7_test.go" />
+      <filePath value="$PROJECT_DIR$/src/main/question12_test.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.question12_test.go" />
+        <item itemvalue="Go Test.TestIntToRoman in coding/src/main (1)" />
+        <item itemvalue="Go Build.go build coding/src/main" />
         <item itemvalue="Go Test.TestIntToRoman in coding/src/main" />
         <item itemvalue="Go Test.TestMaxArea in coding/src/main" />
-        <item itemvalue="Go Test.TestIsPalindrome in coding/src/main" />
-        <item itemvalue="Go Test.TestMyAtoi in coding/src/main" />
-        <item itemvalue="Go Test.question7_test.go" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +132,9 @@
     <watches-manager>
       <configuration name="GoApplicationRunConfiguration">
         <watch expression="*(*&quot;main.ListNode&quot;)(824633917904)" />
+      </configuration>
+      <configuration name="GoTestRunConfiguration">
+        <watch expression="nums[i]" language="go" />
       </configuration>
     </watches-manager>
   </component>
